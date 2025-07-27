@@ -414,14 +414,8 @@ i {
     border-radius: 10px;
   }
 }
-  
-  
 
-
-
-
-
-@media(max-width: 435px){
+@media(max-width: 450px){
   .hero h3 {
    font-size: 2em;
    font-weight: 600;
@@ -438,21 +432,14 @@ i {
      font-size: 30px;
      line-height: 28px;
    }
-}
-
 
 .img-container{
   padding: 20px;
-  
+}
   
  img{
    width: 130px;
  }
-}
-
-
-
-@media(max-width: 450px){
    
   .links-container{
     position: fixed;
