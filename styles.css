@@ -451,7 +451,7 @@ i {
 
 
 
-@media(max-width: 768px){
+@media(max-width: 450px){
    
   .links-container{
     position: fixed;
